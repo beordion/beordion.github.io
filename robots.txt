@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://beordion.github.io/sitemap.html.gz
+Sitemap: https://beordion.github.io/app/sitemap.html.gz
+Sitemap: https://beordion.github.io/assets/sitemap.html.gz
+Sitemap: https://beordion.github.io/css/sitemap.html.gz
+Sitemap: https://beordion.github.io/includes/sitemap.html.gz
+Sitemap: https://beordion.github.io/item/sitemap.html.gz
+Sitemap: https://beordion.github.io/src/sitemap.html.gz
